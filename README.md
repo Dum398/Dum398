@@ -9,7 +9,7 @@
 
 - I’m looking to collaborate on [Linux](https://github.com/torvalds/linux)
 
-- All of my projects are available at [www.github.com/Ddum398](www.github.com/Ddum398)
+- All of my projects are available at [www.github.com/Ddum398](www.github.com/Dum398)
 
 - How to reach me **jirikmachula@proton.me**
 
