@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Jirka</h1>
-<h3 align="center">A young developer from Czechia</h3>
+<h3 align="center">Idk what to type here</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dum398" alt="dum398" /></a> </p>
 
